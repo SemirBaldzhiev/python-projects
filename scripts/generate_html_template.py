@@ -27,7 +27,7 @@ for dir in os.listdir("/python-projects"):
 
     <h1>{dir}</h1>
     
-    <p><a href="index.html" class="back-btn">← Back to Menu</a></p>
+    <p><a href="../index.html" class="back-btn">← Back to Menu</a></p>
     <br>
     <iframe src="https://trinket.io/embed/python3/id/?outputOnly=true&runOption=run&start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </body>
